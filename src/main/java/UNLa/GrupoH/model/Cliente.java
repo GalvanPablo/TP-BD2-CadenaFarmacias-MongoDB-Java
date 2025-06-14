@@ -1,4 +1,4 @@
-package UNLa.GrupoH;
+package UNLa.GrupoH.model;
 
 public class Cliente extends Persona{
     private long idCliente;

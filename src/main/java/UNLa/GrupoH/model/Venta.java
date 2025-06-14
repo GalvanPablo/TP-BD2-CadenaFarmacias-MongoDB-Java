@@ -1,4 +1,4 @@
-package UNLa.GrupoH;
+package UNLa.GrupoH.model;
 
 import java.util.Date;
 import java.util.List;

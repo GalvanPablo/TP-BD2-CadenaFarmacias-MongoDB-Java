@@ -1,4 +1,4 @@
-package UNLa.GrupoH;
+package UNLa.GrupoH.model;
 
 public class Domicilio {
     private String calle;
